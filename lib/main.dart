@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_user_bloc/blocs/users_bloc.dart';
 import 'package:flutter_user_bloc/ui/users/users_screen.dart';
-
 import 'blocs/users_event.dart';
 
 Future<void> main() async{
